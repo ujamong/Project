@@ -1,4 +1,4 @@
-# project
+# Project
 
 ## ANALYSIS
 - Simple Correlation Analysis of Audience and Movie screens
